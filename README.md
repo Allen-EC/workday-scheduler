@@ -1,4 +1,4 @@
-# workday-scheduler
+# Workday Scheduler
 A simple web based calendar application
 
 ---
