@@ -7,9 +7,7 @@ A simple web based calendar application
 
 A simple scheduler that allows the user to enter information regarding the plan for today.
 
-The following image shows an example of the quiz in use:
-
-![workday-scheduler] <!--- Not yet reade... (./assets/images/screenshot2.png) -->
+The deployed application can be found here: https://allen-ec.github.io/codequiz/
 
 ## Installation
 
@@ -17,7 +15,7 @@ N/A
 
 ## Usage
 
-The deployed application can be found here: <!--- Uncomment once deployed https://allen-ec.github.io/codequiz/ -->
+
 
 
 
